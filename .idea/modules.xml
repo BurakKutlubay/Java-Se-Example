@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/example/example.iml" filepath="$PROJECT_DIR$/example/example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/javase-example.iml" filepath="$PROJECT_DIR$/.idea/javase-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miniprojeler/miniprojeler.iml" filepath="$PROJECT_DIR$/miniprojeler/miniprojeler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sartbloklariylacalismak/sartbloklariylacalismak.iml" filepath="$PROJECT_DIR$/sartbloklariylacalismak/sartbloklariylacalismak.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stringlerlecalismak/stringlerlecalismak.iml" filepath="$PROJECT_DIR$/stringlerlecalismak/stringlerlecalismak.iml" />
+      <module fileurl="file://$PROJECT_DIR$/typeconversions/typeconversions.iml" filepath="$PROJECT_DIR$/typeconversions/typeconversions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workingwitharrays/workingwitharrays.iml" filepath="$PROJECT_DIR$/workingwitharrays/workingwitharrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workingwithloops/workingwithloops.iml" filepath="$PROJECT_DIR$/workingwithloops/workingwithloops.iml" />
+    </modules>
+  </component>
+</project>
